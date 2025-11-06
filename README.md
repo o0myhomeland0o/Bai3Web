@@ -41,3 +41,13 @@ Yêu cầu : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 Yêu cầu sinh viên lưu code trên github  
 có file readme.md có hình ảnh + text: ghi lại nhật ký quá trình làm bài.  
+
+# Bài làm:  
+1. Cài đặt môi trường linux:
+<img width="695" height="330" alt="image" src="https://github.com/user-attachments/assets/36d27369-361e-414a-afc5-700581ed16b4" />
+<img width="910" height="295" alt="image" src="https://github.com/user-attachments/assets/10f9bbaa-34bf-43de-b5a5-311443ff1ed9" />
+<img width="745" height="641" alt="image" src="https://github.com/user-attachments/assets/595da610-818e-4a71-9f6f-7790cb774efd" />  
+
+2. Cài đặt Docker (google tên docker desktop và cài đặt ta sẽ có)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b086e3a8-f1fc-4d61-bdb4-52f12e161b23" />  
+3. Sử dụng 1 file docker-compose.yml để cài đặt các docker container sau:  
