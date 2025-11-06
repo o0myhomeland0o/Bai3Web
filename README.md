@@ -50,4 +50,5 @@ có file readme.md có hình ảnh + text: ghi lại nhật ký quá trình làm
 
 2. Cài đặt Docker (google tên docker desktop và cài đặt ta sẽ có)  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b086e3a8-f1fc-4d61-bdb4-52f12e161b23" />  
-3. Sử dụng 1 file docker-compose.yml để cài đặt các docker container sau:  
+3. Sử dụng 1 file docker-compose.yml để cài đặt các docker container :  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dca710d1-09b8-4586-8a38-a1b1786faf7c" />
